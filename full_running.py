@@ -5,7 +5,8 @@ files_to_run = [
     '3Selatan_OBS.py', 
     '3Timur_ManyCam.py',
     '3Utara_XSplit.py',
-    'hitung_durasi.py'
+    'hitung_durasi.py',
+    'ESP32/HMIHostESP3_1.py'
 ]
 
 processes = []
